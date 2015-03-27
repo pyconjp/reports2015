@@ -3,20 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to How to Make PyCon JP 2015's documentation!
+PyCon JP 2015の作り方
 =====================================================
 
-Contents:
+gihyo.jp で連載する「PyCon JP 2015の作り方」の原稿を書くところです。
+
+目次:
 
 .. toctree::
    :maxdepth: 2
 
+   01_web
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+スケジュール
+------------
+執筆スケジュールとか
