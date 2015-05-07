@@ -18,4 +18,22 @@ gihyo.jp で連載する「PyCon JP 2015の作り方」の原稿を書くとこ�
 
 スケジュール
 ------------
-執筆スケジュールとか
+- 第1回(Web: vkgtaro)
+
+  - チケット: `[HTJ-249] gihyo.jp の連載 第1回について <https://pyconjp.atlassian.net/browse/HTJ-249>`_
+  - 5/11初稿出し
+  - 5/11中に技評さんから戻し
+  - 5/14中もしくは5/15の午前10時までに再稿出し&fix
+  - 5/15午前11時ごろ公開
+
+- 第2回(デザイン、スポンサー: yoshida)
+
+  - チケット: `[HTJ-383] gihyo.jp の連載 第2回について <https://pyconjp.atlassian.net/browse/HTJ-383>`_
+
+- 第3回(会場、ネットワーク: surgo)
+
+  - チケット: `[HTJ-384] gihyo.jp の連載 第3回について <https://pyconjp.atlassian.net/browse/HTJ-384>`_
+
+- 第4回(テーマ、キーノート決め: sekine)
+
+  - チケット: `[HTJ-417] gihyo.jp の連載 第4回について <https://pyconjp.atlassian.net/browse/HTJ-417>`_
