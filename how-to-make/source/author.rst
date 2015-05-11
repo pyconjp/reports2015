@@ -7,16 +7,6 @@
 - `「PyCon Taiwan 2012」参加レポート：レポート <http://gihyo.jp/news/report/01/pycon-taiwan2012>`_
 - `台湾で開催された「PyCon APAC 2014」参加レポート：レポート <http://gihyo.jp/news/report/01/pycon-apac2014>`_
 
-名前(ふりがな)
-==============
-.. image:: /images/your_name.jpg
-
-所属とかやっていることとか。
-
-- Twitterとか
-- Webサイトとか
-
-  
 今津 紀子(いまづ のりこ)
 ========================
 
@@ -26,9 +16,9 @@ PyCon JP スタッフ歴も4年目となりましたが、まだまだ新人気�
 - Twitter： `@RicoImazu <https://twitter.com/ricoimazu>`_
 
 小松 大輔(こまつ だいすけ)
-========================
+==========================
 
-.. image:: /images/vkgtaro.jp
+.. image:: /images/vkgtaro.jpg
 
 `株式会社ジー・モード <http://gmodecorp.com/>`_ でゲーム作ってます。
 PyCon JP はずっと写真撮影係で当日のみでしたが、今年はスタッフとして、Web チームを担当してます。
