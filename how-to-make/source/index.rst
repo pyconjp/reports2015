@@ -14,7 +14,9 @@ gihyo.jp で連載する「PyCon JP 2015の作り方」の原稿を書くとこ�
    :maxdepth: 2
 
    01_web
-   author
+   01_author
+   02_management
+   02_author
 
 スケジュール
 ------------
@@ -37,3 +39,4 @@ gihyo.jp で連載する「PyCon JP 2015の作り方」の原稿を書くとこ�
 - 第4回(テーマ、キーノート決め: sekine)
 
   - チケット: `[HTJ-417] gihyo.jp の連載 第4回について <https://pyconjp.atlassian.net/browse/HTJ-417>`_
+
