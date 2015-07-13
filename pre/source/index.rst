@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Pre PyCon JP 2015 report: CodeZine's documentation!
+PyCon JP 2015 開催前レポート: CodeZine
 ==============================================================
 
 Contents:
@@ -11,12 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+   01_overview
+   02_program
+   03_venue_party
+   04_others
+   authors.rst
