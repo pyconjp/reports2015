@@ -17,3 +17,13 @@
 
 - Twitter： `@checkpoint <https://twitter.com/checkpoint>`_
 
+
+齋藤大輔(さいとう だいすけ)
+========================
+
+.. image:: /images/saito.jpg
+
+早稲田大学基幹理工学研究科博士後期課程に在籍。専門はソフトウェア工学、ソフトウェア開発教育。好きなゲームはMinecraft。
+趣味でPythonを使用してゲームなどを開発している。PythonのライブラリやフレームワークはKivy、Ren'Py、Bottle、などが大好きである。
+PyCon JP 2015(プログラム)ではキーノートと子ども向けワークショップを担当している。
+
