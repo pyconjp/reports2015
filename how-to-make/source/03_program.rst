@@ -139,22 +139,15 @@ Dear ~,
 
 I am Daisuke SAITO, who is a committee member of PyConJP 2015.
 
-
 I am writing this email to inform you that PyConJP 2015 Conference will be held on 10th-11th of October this year and to ask you if it is possible for you to keynote at the event on 10th in the morning.
 
-
 This event has been held every year since 2011, and it is one of the largest event about Python in Japan.
-
 545 people who are interested in or are developers of Python participated last year.
 
-
 The theme of this time is "Possibilities of Python" and The keynote will be for 50 minutes.
-
 We would like to ask you based on a theme your python story. Python developers in Japan welcome you to PyCon JP 2015.
 
-
 So could you please consider our request?
-
 I am looking forward to hearing from you.
 
 Best regards,
