@@ -106,7 +106,7 @@ Lynn Root氏
 .. figure:: images/lynn.jpg
    :width: 30%
 
-PyLadiesサンフランシスコ支部の創設者。 彼女は、Spotifyへの貢献、Python Software FoundationのボードメンバーやDjango Software Foundationメンバーとして活躍をしています。そんな彼女は、眠らないソフトウェアエンジニアです。 また、彼女は金融と経済の経営学の学位を取得していますが、2011年にプログラミングが大好きになりました。
+PyLadiesサンフランシスコ支部の創設者。 彼女は、Spotifyへの貢献、Python Software FoundationのボードメンバーやDjango Software Foundationメンバーとして活躍をしています。そんな彼女は、眠らないソフトウェアエンジニアです。
 
 佐藤治夫氏
 ^^^^^^^^^^^
@@ -114,12 +114,12 @@ PyLadiesサンフランシスコ支部の創設者。 彼女は、Spotifyへの�
 .. figure:: images/sato.png
 
 株式会社ビープラウド代表取締役。
- SIerのシステムエンジニア、フリーランスエンジニアを経て、2006年5月にビープラウドを設立。 ビープラウドでは、2008年4月にPythonを会社の公式言語として採用し、その後、70以上の開発プロジェクトでPythonを採用してきました。 実践から生まれた開発ノウハウをまとめた「Python Professional Programming」の第1版を2012年3月に、2014年2月には最新の内容を盛り込んだ改訂第２版を上梓しました。 エンジニアなどがより活躍し、働きやすい組織をつくるための活動に日々取り組んでいます。
+ SIerのシステムエンジニア、フリーランスエンジニアを経て、2006年5月にビープラウドを設立。 ビープラウドでは、2008年4月にPythonを会社の公式言語として採用し、その後、70以上の開発プロジェクトでPythonを採用してきました。
 
 キーノートスピーカーの決定方法
 ----------------------------
 
-キーノートの候補者の募集はGoogleフォームによって行われました。候補者決定後、正式な講演者を決定します。講演者の決定までの流れは以下の通りです。
+キーノートの候補者の募集はメーリングリストやSNS(Facebookなど)を活用して外部から広く募集しました。候補者決定後、正式な講演者を決定します。講演者の決定までの流れは以下の通りです。
 
  候補者決定までの流れ
  
@@ -131,7 +131,36 @@ PyLadiesサンフランシスコ支部の創設者。 彼女は、Spotifyへの�
  * 6.海外スピーカー決定（Lynn Root氏）
 
 苦労した点
-国内候補者を決定するのが一番苦労しました。PyConJP2015内で二回、投票が行われました。一回目の決定後、いくつかフィードバックをいただき、二回目の投票を行おうという流れになりました。投票用のフォームを作り直したりいろいろ大変でした。
+
+Lynn Root氏に基調講演の依頼メールは英語でなくてはならないので、英文を作るのに苦労しました。他メンバーの協力によって無事に依頼を出すことができました。
+また、英文の依頼メール（抜粋）を公開してみます。海外の方にメールで依頼を出す際の参考になれば。
+
+Dear ~,
+
+I am Daisuke SAITO, who is a committee member of PyConJP 2015.
+
+
+I am writing this email to inform you that PyConJP 2015 Conference will be held on 10th-11th of October this year and to ask you if it is possible for you to keynote at the event on 10th in the morning.
+
+
+This event has been held every year since 2011, and it is one of the largest event about Python in Japan.
+
+545 people who are interested in or are developers of Python participated last year.
+
+
+The theme of this time is "Possibilities of Python" and The keynote will be for 50 minutes.
+
+We would like to ask you based on a theme your python story. Python developers in Japan welcome you to PyCon JP 2015.
+
+
+So could you please consider our request?
+
+I am looking forward to hearing from you.
+
+Best regards,
+
+Daisuke SAITO
+
 
 新企画について
 ----------------------------
