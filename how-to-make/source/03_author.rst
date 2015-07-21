@@ -36,4 +36,14 @@ PyCon JP 2015(プログラム)ではキーノートと子ども向けワーク�
 学生時代にPythonと出会い、Pythonの設計思想に惚れる。大学院時代にはPythonを利用して音声信号処理や統計分析を経験する。
 卒業後は趣味でDjangoなどを利用して遊んでいる。PyCon JP 2015では子ども向けワークショップを担当している。
 
+芝田将(しばた まさし)
+=====================
+
+.. image:: /images/shibata.jpg
+
+明石高専専攻科1年でBeProud アルバイト。PyCon JPではメディアチームに在籍。
+Pythonが好きで趣味やアルバイトではDjangoを使ってWebアプリを書きつつ、研究ではpandasを利用。
+またPythonの勉強会 akashi.py を主催している。
+
+- Twitter: `@c_bata_ <https://twitter.com/c_bata_>`_
 
