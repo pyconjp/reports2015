@@ -98,11 +98,22 @@ PyCon JP 2015 プログラムチームの齋藤大輔です。
 今年の基調講演者を紹介いたします。
 先ず、PyLadies San Francisco支部の創立者のLynn Root氏です。
 
-.. figure:: /_static/01_overview/
+.. figure:: /_static/01_overview/lynn_root.jpg
+   :width: 500
+   
+   Lynn氏のプロフィール
+   
 
 次に、株式会社ビープラウド代表取締役社長の佐藤 治夫氏です。
 
-.. figure:: /_static/01_overview/
+.. figure:: /_static/01_overview/haruo_sato.jpg
+   :width: 500
+   
+   佐藤治夫氏のプロフィール
+   
+   
+   
+   
   
 まとめと次回
 ============
