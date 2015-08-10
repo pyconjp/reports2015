@@ -92,7 +92,17 @@ Pythonの可能性を拡げるために、次代を担っていく子ども達�
    
 基調講演
 ========
-- 担当: ds110
+
+PyCon JP 2015 プログラムチームの齋藤大輔です。
+
+今年の基調講演者を紹介いたします。
+先ず、PyLadies San Francisco支部の創立者のLynn Root氏です。
+
+.. figure:: /_static/01_overview/
+
+次に、株式会社ビープラウド代表取締役社長の佐藤 治夫氏です。
+
+.. figure:: /_static/01_overview/
   
 まとめと次回
 ============
