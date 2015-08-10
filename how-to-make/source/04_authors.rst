@@ -25,6 +25,8 @@
 
 水野 真璃(みずの まり)
 ======================
+.. image:: /images/mmznn.jpg
+
 PyCon JPスタッフ2年生。
 Python書かないどころかプログラミングしていなくても入れる太っ腹な `Python ボルダリング部（#kabepy） <http://kabepy.connpass.com/>`_ で壁を登っています。
 部員の腹は出ていません。
