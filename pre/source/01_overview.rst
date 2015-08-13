@@ -178,7 +178,7 @@ Lynn Root氏はPyLadies San Francisco支部での活動の他にもSpotifyへの
 
 次に、株式会社ビープラウド代表取締役社長の佐藤 治夫氏です。
 
-.. figure:: /_static/01_overview/haruo_sato.jpg
+.. figure:: /_static/01_overview/haruo_sato.png
    :width: 500
 
 佐藤 治夫氏は株式会社ビープラウドの社長であす。ビープラウドはPythonをメインの言語として70以上のプロジェクトでPythonを採用してきました。
