@@ -161,7 +161,7 @@ PyCon JP 2015 プログラムチームの齋藤大輔です。
 Lynn Root氏はPyLadies San Francisco支部での活動の他にもSpotifyへの貢献、Python Software FoundationのボードメンバーやDjango Software Foundationメンバーなど、様々な活動をしています。
 彼女はプログラミングが大好きで、眠らないプログラマーでもあります。  
 
-また、PyCon JP 2015の基調講演に向けての意気込みは
+また、PyCon JP 2015の基調講演に向けての意気込みは、近くホームページ上で公開予定です。
 彼女がどのようなPythonストーリーを語っていただけるのか講演が非常に楽しみです。
 
 次に、株式会社ビープラウド代表取締役社長の佐藤 治夫氏です。
