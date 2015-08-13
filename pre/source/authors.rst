@@ -41,5 +41,5 @@
 Kivyはただいま勉強中。
 
 - Facebook: `齋藤 大輔 <https://www.facebook.com/ds110.sai>`_
-- LinkedIN: `Daisuke Saito <https://jp.linkedin.com/pub/daisuke-saito/2b/919/7a0`_
+- LinkedIN: `Daisuke Saito <https://jp.linkedin.com/pub/daisuke-saito/2b/919/7a0>`_
 - Twitter: `@PCShop_kabu <https://twitter.com/pcshop_kabu>`_
