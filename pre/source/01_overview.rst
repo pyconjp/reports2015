@@ -57,7 +57,7 @@ PyCon JP 2015では、「Possibilities of Python」をテーマに据えまし�
    * - チケット購入先(カンファレンス)
      - http://pyconjp.connpass.com/event/15146/
    * - 運営
-     - `PyCon JP 実行委員会<http://www.pycon.jp/committee.html>`_ PyCon JP 2015 運営チーム
+     - `PyCon JP 実行委員会 <http://www.pycon.jp/committee.html>`_ PyCon JP 2015 運営チーム
    * - 連絡先
      - 2015@pycon.jp
    * - Webサイト
