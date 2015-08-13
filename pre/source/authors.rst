@@ -44,9 +44,6 @@ Pythonが好きで趣味やアルバイトではDjangoを使ってWebアプリ�
 - Facebook: `芝田 将 <http://facebook.com/masashi.cbata>`_
 
 
-=======
-
-
 齋藤 大輔 (サイトウ ダイスケ)
 ==============================
 .. image:: /_static/saito.jpg
