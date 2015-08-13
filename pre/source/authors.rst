@@ -29,3 +29,12 @@
 - Twitter: `@takanory <https://twitter.com/takanory>`_
 - Facebook: `鈴木 たかのり <https://www.facebook.com/takanory.net>`_
 - Webサイト: `takanory.net <http://takanory.net/>`_
+
+
+齋藤 大輔 (サイトウ ダイスケ)
+==============================
+.. image:: /_static/saito.jpg
+
+早稲田大学既管理工学研究科博士後期課程に在籍。
+
+
