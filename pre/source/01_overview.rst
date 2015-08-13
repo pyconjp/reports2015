@@ -65,7 +65,7 @@ PyCon JP 2015では、「Possibilities of Python」をテーマに据えまし�
    * - チケット購入先(カンファレンス)
      - http://pyconjp.connpass.com/event/15146/
    * - 運営
-     - `PyCon JP 実行委員会<http://www.pycon.jp/committee.html>`_ PyCon JP 2015 運営チーム
+     - `PyCon JP 実行委員会 <http://www.pycon.jp/committee.html>`_ PyCon JP 2015 運営チーム
    * - 連絡先
      - 2015@pycon.jp
    * - Webサイト
@@ -169,11 +169,7 @@ PyCon JP 2015 プログラムチームの齋藤大輔です。
 Lynn Root氏はPyLadies San Francisco支部での活動の他にもSpotifyへの貢献、Python Software FoundationのボードメンバーやDjango Software Foundationメンバーなど、様々な活動をしています。
 彼女はプログラミングが大好きで、眠らないプログラマーでもあります。  
 
-また、PyCon JP 2015の基調講演に向けての意気込みは
-
-「現在問い合わせ中（メール送信済み）」
-
-とのこと。
+また、PyCon JP 2015の基調講演に向けての意気込みは、近くホームページ上で公開予定です。
 彼女がどのようなPythonストーリーを語っていただけるのか講演が非常に楽しみです。
 
 次に、株式会社ビープラウド代表取締役社長の佐藤 治夫氏です。
@@ -186,7 +182,9 @@ Lynn Root氏はPyLadies San Francisco支部での活動の他にもSpotifyへの
 
 佐藤氏は、PyConJP 2015の基調講演に向けての意気込みを次のように述べています。
 
-「現在問い合わせ中（メール送信済み）」
+「2008年に自社でPythonを開発メイン言語として採用して以来、さまざまな恩恵に預かり、Pythonコミュニティの方々にも大変お世話になってきました。
+
+キーノートでは、いままでの取り組みや経験、学んで来たことをもとに、人・組織・Pythonなどをテーマにお話させて頂きます。聞いてくださる方々に１つでも発見があれば良いとおもっています。」
 
 経営者のお立場から、Pytnonの可能性について、素敵なお話を聞かせてくれるのではないでしょうか？
 

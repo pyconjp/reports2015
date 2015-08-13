@@ -44,3 +44,19 @@ Pythonが好きで趣味やアルバイトではDjangoを使ってWebアプリ�
 - Facebook: `芝田 将 <http://facebook.com/masashi.cbata>`_
 
 
+=======
+
+
+齋藤 大輔 (サイトウ ダイスケ)
+==============================
+.. image:: /_static/saito.jpg
+
+早稲田大学既管理工学研究科博士後期課程に在籍。PyCon JP 2015 ではプログラムチーム（キーノートと子ども向けワークショップ）を担当。
+
+趣味でPythonを使ってゲームなどを開発している。好きなライブラリ、フレームワークは、Kivy, Ren'Py, Bottleである。
+Kivyはただいま勉強中。
+
+- Facebook: `齋藤 大輔 <https://www.facebook.com/ds110.sai>`_
+- LinkedIN: `Daisuke Saito <https://jp.linkedin.com/pub/daisuke-saito/2b/919/7a0>`_
+- Twitter: `@PCShop_kabu <https://twitter.com/pcshop_kabu>`_
+
