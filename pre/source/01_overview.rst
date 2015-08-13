@@ -2,7 +2,15 @@
  第1回 開催概要・キーノート
 ============================
 
-- 書き出し担当: shibata
+こんにちは、メディアチームの芝田です。
+さっそくですが、PyCon JP 2015の開催がいよいよ近づいてきました。
+
+PyCon JPは毎年多くの方にご参加いただいていますが、これまでPyCon JPに参加したことがなく、今年こそ参加したい！と考えておられる方もいらっしゃるかと思います。
+また毎年参加されている方の中にも、今年のPyCon JPではどういう新しい試みが行われているのか気になっている方がいらっしゃるのではないでしょうか？
+この連載ではPyCon JP 2015の開催に先駆けてこのカンファレンスの概要から見どころまでを紹介し、PyCon JP 2015を存分に楽しんでいけたらと考えています。
+
+今回は、PyCon JPの成り立ちと開催概要を紹介いたします。
+
 
 開催概要
 ========
@@ -64,7 +72,7 @@ PyCon JP 2015では、「Possibilities of Python」をテーマに据えまし�
      - https://pycon.jp/2015/
    * - Twitterハッシュタグ
      - `#pyconjp <https://twitter.com/search?q=%23pyconjp&src=typd>`_
-  
+
 座長あいさつ、新しい試みの紹介
 ==============================
 PyCon JP 2015 座長の鈴木たかのりです。
@@ -157,7 +165,7 @@ PyCon JP 2015 プログラムチームの齋藤大輔です。
 
 .. figure:: /_static/01_overview/lynn_root.jpg
    :width: 500
-   
+
 Lynn Root氏はPyLadies San Francisco支部での活動の他にもSpotifyへの貢献、Python Software FoundationのボードメンバーやDjango Software Foundationメンバーなど、様々な活動をしています。
 彼女はプログラミングが大好きで、眠らないプログラマーでもあります。  
 
@@ -172,7 +180,7 @@ Lynn Root氏はPyLadies San Francisco支部での活動の他にもSpotifyへの
 
 .. figure:: /_static/01_overview/haruo_sato.jpg
    :width: 500
-   
+
 佐藤 治夫氏は株式会社ビープラウドの社長であす。ビープラウドはPythonをメインの言語として70以上のプロジェクトでPythonを採用してきました。
 また、佐藤氏は、エンジニアが活躍し働きやすい環境をつくるための日々、取り組んでいます。
 
@@ -183,8 +191,15 @@ Lynn Root氏はPyLadies San Francisco支部での活動の他にもSpotifyへの
 経営者のお立場から、Pytnonの可能性について、素敵なお話を聞かせてくれるのではないでしょうか？
 
 是非、PyCon JP 2015に参加してLynn氏、佐藤氏と交流をしていただければと思います。
-   
-  
+
+
 まとめと次回
 ============
-- 担当: shibata? ricoimazu?
+
+メディアチームの芝田です。
+いかがでしたでしょうか？
+PyCon JPに参加したことのない方々もPyCon JPについて知っていただけたのではないかと思います。
+
+次回はPyCon JPの目玉であるプログラムについて紹介していきます。
+お楽しみに！
+
