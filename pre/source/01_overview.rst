@@ -21,6 +21,10 @@ PyCon JPは毎年多くの方にご参加いただいていますが、これま
 PyCon JP とは
 -------------
 
+.. figure:: /_static/01_overview/pyconjp2015_logo.jpg
+   :width: 600
+   :alt: PyCon JP 2015 ロゴ
+
 PyConは、Pythonユーザが集まり、PythonやPythonを使ったソフトウェアについて情報交換、交流をするためのカンファレンスです。PyCon JPの開催を通じて、Pythonの使い手が一同に集まり、Pythonにまつわる様々な分野の知識や情報を交換し、新たな友達やコミュニティとのつながり、仕事やビジネスチャンスを増やせる場所とすることが目標です。
 
 PyCon JP 2015では、「Possibilities of Python」をテーマに据えました。カンファレンスを通して、Pythonのさまざまな可能性を感じてもらえるイベントにしたいと考え、企画を進めています。
