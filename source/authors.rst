@@ -82,3 +82,17 @@ SnapDish というサービスを開発・運営しています。仕事では O
 
 :Twitter: `@kiyotaman <https://twitter.com/kiyotaman>`_
 :サイト: `http://snapdish.co <http://snapdish.co>`_
+
+
+中山 裕介（ナカヤマ ユウスケ）
+=============================
+.. image:: /_static/yusuke_nakayama.jpg
+
+PyCon JP 2015ではプログラムチームに所属。
+
+大手企業にて分析ソフトウェアの技術営業をしています。Pythonは半年前に出会ってから、主にデータ分析に使うために少しずつ勉強しています。PyCon JPにスタッフとして関わることで、Pythonの魅力をビシビシと感じています。今年が初めてのスタッフです。
+今年の夏の課題はOSを作ることと決めていたのですが、まだ着手できていないです。
+
+- Twitter `@YusukeNakayama1 <https://twitter.com/YusukeNakayama1>`_
+- Facebook `Yusuke Nakayama <https://www.facebook.com/yusuke.nakayama.1218`_
+
