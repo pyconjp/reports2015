@@ -57,6 +57,15 @@ Kivyはただいま勉強中。
 - LinkedIN: `Daisuke Saito <https://jp.linkedin.com/in/ds110>`_
 - Twitter: `@PCShop_kabu <https://twitter.com/pcshop_kabu>`_
 
+的場 達矢 (マトバ タツヤ)
+==============================
+.. image:: /_static/matoba.jpg
+
+普段はSIerにて業務システムの維持改修プロジェクトに従事。PyCon JP 2015 ではプログラムチーム（子ども向けワークショップ）を担当。
+
+学生時代、恩師に進められPythonを始める。それ以来、Pythonの言語思想やコミュニティなどに魅かれ、PyCon JP 2015よりスタッフに参加しています。
+
+- Facebook: `的場 達矢 <https://www.facebook.com/tatsuya.matoba>`_
 
 今津 紀子(イマヅ ノリコ)
 ==============================
