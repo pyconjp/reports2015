@@ -120,3 +120,13 @@ PyCon JP 2015では会場チームに所属。パーティーを担当。
 - Twitter: `@massa142 <https://twitter.com/massa142>`_
 - Facebook: `新井 正貴 <https://www.facebook.com/mstk214>`_
 
+佐藤 昌基（サトウ マサキ）
+==========================
+.. image:: /_static/sato_masaki.jpg
+
+PyCon JP 2015ではプログラムチームに所属。
+
+SIerにてJavaやC#を使ったアプリ開発に携わった後、アライドアーキテクツ株式会社に入社。仕事では主にPHPを使ったWebアプリケーション開発を担当しているが、同僚にPython好きがいたことからPythonに触れる機会が増え、勉強会などに参加するようになる。趣味は草野球で、主に大宮を拠点に活動している。
+
+- Twitter: `@taisa_007 <https://twitter.com/taisa_007>`
+- Facebook: `佐藤 昌基 <https://www.facebook.com/masaki.sato.0831>`
