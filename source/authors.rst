@@ -122,7 +122,7 @@ PyCon JP 2015では会場チームに所属。パーティーを担当。
 
 佐藤 昌基（サトウ マサキ）
 ==========================
-.. image:: /_static/sato_masaki.jpg
+.. image:: /_static/masaki_sato.jpg
 
 PyCon JP 2015ではプログラムチームに所属。
 
