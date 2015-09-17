@@ -74,8 +74,11 @@ Pythonを初めて学ぶ方や始めたばかりの方を対象としたチュ�
 
 講師の `Takesxi Sximada <https://twitter.com/TakesxiSximada>`_ さんに意気込みを伺いました。
 
-.. image:: _static/02_program/TakesxiSximada.png
-    :width: 200px
+.. figure:: _static/02_program/TakesxiSximada.png
+   :width: 200px
+   :alt: Takesxi Sximada
+
+   Takesxi Sximada
 
 | 本チュートリアルではPythonの基本的な扱い方とその応用の一例としてWebスクレイピングを学びます。
 | 学んだ事を実践に生かせる内容になるように、HTTP通信やHTML/JSON/CSVなどのデータ形式を扱うようにしました。
@@ -87,8 +90,11 @@ Pythonを利用して、機械学習を組み込んだアプリケーション�
 
 講師の `Takahiro Kubo <https://twitter.com/icoxfog417>`_ さんに意気込みを伺いました。
 
-.. image:: _static/02_program/TakahiroKubo.jpg
-    :width: 200px
+.. figure:: _static/02_program/TakahiroKubo.jpg
+   :width: 200px
+   :alt: Takahiro Kubo
+
+   Takahiro Kubo
 
 | 本チュートリアルでは、機械学習を組み込んだアプリケーションを実際に触ってもらい、その動作原理や実装方法について解説していきます。
 | これを機に、機械学習という力でいろいろなアイデアを実現する方法を身につけてもらえればと思います。
@@ -99,8 +105,11 @@ Sphinxでドキュメントを作成したい方やもっと詳しく学びた�
 
 講師の `Takayuki Shimizukawa <https://twitter.com/shimizukawa>`_ さんに意気込みを伺いました。
 
-.. image:: _static/02_program/TakayukiShimizukawa.jpg
-    :width: 200px
+.. figure:: _static/02_program/TakayukiShimizukawa.jpg
+   :width: 200px
+   :alt: Takayuki Shimizukawa
+
+   Takayuki Shimizukawa
 
 | Sphinxはドキュメントを作りたくなってしまう魔法のツールです。
 | ドキュメントを手軽に書けるようになり、そして書くのが楽しくなります。
@@ -115,7 +124,10 @@ Pythonを使った機械学習に興味がある方を対象としたチュー�
 
 講師の `Kimikazu Kato <https://twitter.com/hamukazu>`_ さんに意気込みを伺いました。
 
-.. image:: _static/02_program/KimikazuKato.jpeg
+.. figure:: _static/02_program/KimikazuKato.jpeg
+   :alt: Kimikazu Kato
+
+   Kimikazu Kato
 
 | 本チュートリアルでは、機械学習の入門的説明から始め、実際に手を動かしながら機械学習の評価実験を実行するところまでやります。機械学習というと難しいイメージを持っている人もいるかもしれませんが、特に専門知識を仮定せず、数式はほとんど使わずにできるだけ平易に説明しようと思っています。幅広いバックグラウンドの人たちの参加を期待しています。
 
@@ -125,7 +137,10 @@ Pythonで統計解析を学びたい方を対象としたチュートリアル�
 
 講師の `Yuta Kashino <https://twitter.com/yutakashino>`_ さんに意気込みを伺いました。
 
-.. image:: _static/02_program/YutaKashino.jpg
+.. figure:: _static/02_program/YutaKashino.jpg
+   :alt: Yuta Kashino
+
+   Yuta Kashino
 
 | モダンな統計解析や機械学習の前提知識であるベイズ推定について、事前分布、事後分布、マルコフ連鎖などの概念に翻弄されている技術者を対象として、ベイズ推定を行うための基礎とを身につける講座です。Pythonコードを動かしながらべイズ推定の肝を理解し、確率論的プログラミングを体験することを目指します。
 
@@ -135,8 +150,11 @@ IoT(Internet of Things)領域の技術を身につけたい方を対象とした
 
 講師の `Takahiro Ikeuchi <https://twitter.com/iktakahiro>`_ さんに意気込みを伺いました。
 
-.. image:: _static/02_program/TakahiroIkeuchi.jpg
-    :width: 200px
+.. figure:: _static/02_program/TakahiroIkeuchi.jpg
+   :width: 200px
+   :alt: Takahiro Ikeuchi
+
+   Takahiro Ikeuchi
 
 | 本チュートリアルは、これからIoTを学び始める第一歩として最適です。IoTの技術要素を学ぶには、デバイスと、デバイスの通信先となるサービスが必要です。本チュートリアルは、参加者の方がPythonのコードを書けば実際にIoTの面白さを体験できるよう、必要な環境を提供します。
 | Python x IoT x AWSの可能性を体感できる身のあるチュートリアルとなるよう絶賛準備中です。当日、みなさまとお会いできることを楽しみにしています。
