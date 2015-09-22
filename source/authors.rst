@@ -130,3 +130,12 @@ SIerにてJavaやC#を使ったアプリ開発に携わった後、アライド�
 
 - Twitter: `@taisa_007 <https://twitter.com/taisa_007>`
 - Facebook: `佐藤 昌基 <https://www.facebook.com/masaki.sato.0831>`
+
+
+ナツ
+====
+.. image:: /_static/natsu.jpg
+
+ゲリラ的テスト屋さん。Python使いではありませんが、PyCon JPでは会場担当を引き受けて4年目になります。
+Twitter: @natsu_bm
+
