@@ -142,10 +142,10 @@ Twitter: @natsu_bm
 
 榎島 数美（エノキジマ カズミ）
 ==========================
-.. image:: /_static/masaki_sato.jpg
+.. image:: /_static/enokijima.jpg
 
 PyCon JP 2015ではプログラムチームに所属。
 
-普段はITじゃない会社の社長秘書。趣味でPythonを勉強中。永遠の初心者の予感もしなくはないけど、、、PyLadies Tokyo（http://tokyo.pyladies.com）のスタッフもやってます。10月に発足一周年記念イベント、11月に合宿も予定しているのでpythonista女子は是非ご参加を！もちろん初心者も歓迎です！
-
+ITじゃない会社の社長秘書。趣味でPythonを勉強中。
+初心者だけど、PyLadies Tokyo（http://tokyo.pyladies.com）のスタッフもやってます。10月24日に発足一周年記念イベント、11月27-29日には秋合宿も予定しているのでpythonista女子は是非ご参加を！もちろん初心者も歓迎です！
 
